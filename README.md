@@ -1,16 +1,38 @@
-# lap2
+# Tourism Landmarks App
 
-A new Flutter project.
+A simple Flutter application that displays famous tourist landmarks using **List View** and **Grid View** layouts.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+* Display famous landmarks.
+* Switch between **List View** and **Grid View**.
+* Clean card design for each landmark.
+* Bottom Navigation Bar.
+* RTL support for Arabic content.
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼 Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The application shows several famous landmarks such as:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Burj Khalifa
+* Pyramids of Giza
+* Taj Mahal
+
+Each landmark card contains:
+
+* Image
+* Name
+* Description
+* Price
+* Currency
+* "View Details" button
+
+## 📸 Screenshots
+
+(assets/screens/imag1.jpeg)
+(assets/screens/img2.jpeg)
+
+## 👩‍💻 Author
+
+Ayat Essam
+Flutter Developer
