@@ -29,13 +29,7 @@ Each landmark card contains:
 
 ## 📸 Screenshots
 
-### List View
+![](assets/images/imag1.jpeg)
 
-![](assets/screens/imag1.jpeg)
+![](assets/images/img2.jpeg)
 
-![](assets/screens/img2.jpeg)
-
-## 👩‍💻 Author
-
-**Ayat Essam**
-Flutter Developer
